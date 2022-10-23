@@ -3,7 +3,8 @@ using System.Collections.Generic;
 using NUnit.Framework;
 using UnityEngine;
 using UnityEngine.TestTools;
-
+// not sure how to run test and how exactly to add the assertions.
+// also im not sure if i even created a correct class for my game.
 public class RockPaperScissorsTest
 {
     // A Test behaves as an ordinary method
