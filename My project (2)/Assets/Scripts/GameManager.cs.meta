@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 1a8c96ff81653496d920c9b32199545b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - result: {instanceID: 0}
+  - AIChoice: {instanceID: 0}
+  - Rock: {fileID: 21300000, guid: 879531d55874c4956a9fbc6fab89ac24, type: 3}
+  - Paper: {fileID: 21300000, guid: 9742073fc57be4ef183d8b3841ca95de, type: 3}
+  - Scissors: {fileID: 21300000, guid: c3453151f9a4d4a4787a18a974646bca, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
